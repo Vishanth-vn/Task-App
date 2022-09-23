@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "912140004126",
+    "project_id": "githubapp-ceeb1",
+    "storage_bucket": "githubapp-ceeb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912140004126:android:bf86123947ce2f6061b70f",
+        "android_client_info": {
+          "package_name": "com.example.githubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912140004126-9b20kfe8fad64np1j299s21slm43k7kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiRUQDhK9F-oEnmQX1XY4r2-SpuvI9-TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912140004126-9b20kfe8fad64np1j299s21slm43k7kh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912140004126-lhpah8vvjqn8qsi5h3968oo62vf1jhtf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.githubapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
